@@ -25,4 +25,4 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-todo-list.git
+   git clone https://github.com/daramtrinadh/TODO-Application.git
